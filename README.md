@@ -32,5 +32,4 @@ Helps e-commerce platforms detect spam reviews and improve trust in user feedbac
 * Sentiment + fake detection hybrid system
 * Web app deployment
 
-⭐ If you find this project useful, consider giving it a star!
 
